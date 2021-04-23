@@ -5,4 +5,3 @@ while last_distance > distance:
     distance = distance + (distance / 10)
     day = day + 1
 print(f"На {day}-й день спортсмен достиг результата — не менее {int(last_distance)} км.")
-

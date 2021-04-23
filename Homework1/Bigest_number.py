@@ -7,4 +7,3 @@ while number > 10:
         box = a
 print(box)
 
-# Найти самую большую цифру в числе
